@@ -1,5 +1,5 @@
 
-![MasterHead](https://camo.githubusercontent.com/d5f4d728234756691e34f934d3c4d9535e80c12e4eec568fbdccf24fc1e5fd47/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313733323336382f73637265656e73686f74732f363535333837322f7765625f646576656c6f7065722e676966)
+![MasterHead]
 
 <h1 align="center">Hi 👋, I'm Vishal Shukla</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
