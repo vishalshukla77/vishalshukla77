@@ -14,11 +14,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **RealEstate**
 
-- 🌱 I’m currently learning **Data structure and algorithm,React,Node**
 
-- 💬 Ask me about **MERN,DSA,problem solving**
+- 🌱 I’m currently learning **Data structure and algorithm,Mern stack,Nextjs**
 
 - 📫 How to reach me **vishalshukla1131@gmail.com**
 
