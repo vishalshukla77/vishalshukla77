@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **Data structure and algorithm,Mern stack,Nextjs**
+- 🌱 I’m currently learning **Data structure and algorithm,Mern stack,Nextjs.**
 
 - 📫 How to reach me **vishalshukla1131@gmail.com**
 
