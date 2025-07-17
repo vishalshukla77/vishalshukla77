@@ -34,9 +34,9 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔗 [**Elevatr**](https://elevatr.onrender.com/) <br> [GitHub Repo](https://github.com/vishalshukla77/Elevatr) <br> <img src="https://github.com/vishalshukla77/Elevatr/assets/your-image-id" alt="Elevatr" width="250"/> | A LinkedIn-like networking platform for professional connections | **MERN Stack** (MongoDB, Express.js, React.js, Node.js) |
-| 🏥 [**MediLinker**](https://medi-linker.vercel.app/) <br> [GitHub Repo](https://github.com/vishalshukla77/MediLinker) <br> <img src="https://github.com/vishalshukla77/MediLinker/assets/your-image-id" alt="MediLinker" width="250"/> | Doctor appointment app with secure auth and dynamic dashboards | **Next.js**, **MongoDB**, **JWT**, **Tailwind CSS** |
-| 📝 [**JotFlow**](https://jot-flow.vercel.app/) <br> [GitHub Repo](https://github.com/vishalshukla77/JotFlow) <br> <img src="https://github.com/vishalshukla77/JotFlow/assets/your-image-id" alt="JotFlow" width="250"/> | Fast and clean note-taking app with markdown support and auth | **Next.js**, **MongoDB**, **Tailwind CSS**, **Auth** |
+| 🔗 [**Elevatr**](https://elevatr.onrender.com/) <br> [GitHub Repo](https://github.com/vishalshukla77/Elevatr) <br>  | A LinkedIn-like networking platform for professional connections | **MERN Stack** (MongoDB, Express.js, React.js, Node.js) |
+| 🏥 [**MediLinker**](https://medi-linker.vercel.app/) <br> [GitHub Repo](https://github.com/vishalshukla77/MediLinker) <br>  | Doctor appointment app with secure auth and dynamic dashboards | **Next.js**, **MongoDB**, **JWT**, **Tailwind CSS** |
+| 📝 [**JotFlow**](https://jot-flow.vercel.app/) <br> [GitHub Repo](https://github.com/vishalshukla77/JotFlow) <br>  | Fast and clean note-taking app with markdown support and auth | **Next.js**, **MongoDB**, **Tailwind CSS**, **Auth** |
 
 
 
