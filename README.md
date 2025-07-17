@@ -32,13 +32,12 @@
 
 ### 🚀 Featured Projects
 
-| Project                                                                                                                                                                                                                                                        | Description                                                        | Tech Stack & Links                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------- |
-| Project | Description | Tech Stack |
+| Project                                                                                                                                                           | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔗 [**Elevatr**](https://elevatr.onrender.com/) <br> [Code](https://github.com/vishalshukla77/Elevatr) <br>  | A LinkedIn-like networking platform for professional connections | **MERN Stack** (MongoDB, Express.js, React.js, Node.js) |
-| 🏥 [**MediLinker**](https://medi-linker.vercel.app/) <br> [Code](https://github.com/vishalshukla77/MediLinker) <br>  | Doctor appointment app with secure auth and dynamic dashboards | **Next.js**, **MongoDB**, **JWT**, **Tailwind CSS** |
-| 📝 [**JotFlow**](https://jot-flow.vercel.app/) <br> [Code](https://github.com/vishalshukla77/JotFlow) <br>  | Fast and clean note-taking app with markdown support and auth | **Next.js**, **MongoDB**, **Tailwind CSS**, **Auth** |
+| 🔗 **Elevatr**  <br> 🌐 [Live Site](https://elevatr.onrender.com/)  &nbsp;|&nbsp; [GitHub Repo](https://github.com/vishalshukla77/Elevatr) <br> ![Elevatr](https://raw.githubusercontent.com/vishalshukla77/Elevatr/main/public/elevatr-banner.png) | A LinkedIn-like networking platform for professional connections | **MERN Stack** (MongoDB, Express.js, React.js, Node.js) |
+| 🏥 **MediLinker**  <br> 🌐 [Live Site](https://medi-linker.vercel.app/) &nbsp;|&nbsp; [GitHub Repo](https://github.com/vishalshukla77/MediLinker) <br> ![MediLinker](https://raw.githubusercontent.com/vishalshukla77/MediLinker/main/public/medi-linker-banner.png) | Doctor appointment app with secure auth and dynamic dashboards | **Next.js**, **MongoDB**, **JWT**, **Tailwind CSS** |
+| 📝 **JotFlow**  <br> 🌐 [Live Site](https://jot-flow.vercel.app/) &nbsp;|&nbsp; [GitHub Repo](https://github.com/vishalshukla77/JotFlow) <br> ![JotFlow](https://raw.githubusercontent.com/vishalshukla77/JotFlow/main/public/jotflow-banner.png) | Fast and clean note-taking app with markdown support and auth | **Next.js**, **MongoDB**, **Tailwind CSS**, **Auth** |
+
 
 
 ---
