@@ -32,11 +32,12 @@
 
 ### 🚀 Featured Projects
 
-| Project      | Description                                                                      | Tech Stack                        |
-|--------------|----------------------------------------------------------------------------------|-----------------------------------|
-| 🔗 **Elevatr**     | A LinkedIn-like networking platform for professional connections               | React, Node.js, MongoDB, Express  |
-| 🏥 **MediLinker**  | Doctor appointment web app with secure authentication and dynamic dashboards | React, MongoDB, JWT, Tailwind     |
-| 📝 **JotFlow**     | Fast and clean note-taking app with markdown support and auth                | Next.js, Tailwind, MongoDB, Auth  |
+| Project                                                                                                                                                                                                                                                        | Description                                                        | Tech Stack & Links                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------- |
+| 🔗 [**Elevatr**](https://elevatr.onrender.com/) <br> <a href="https://github.com/vishalshukla77/Elevatr">GitHub Repo</a> <br> <img src="https://github.com/vishalshukla77/Elevatr/assets/your-image-id" alt="Elevatr landing page" width="250"/>               | A LinkedIn-like networking platform for professional connections   | **MERN Stack** (MongoDB, Express.js, React.js, Node.js) |
+| 🏥 [**MediLinker**](https://medi-linker.vercel.app/) <br> <a href="https://github.com/vishalshukla77/MediLinker">GitHub Repo</a> <br> <img src="https://github.com/vishalshukla77/MediLinker/assets/your-image-id" alt="MediLinker landing page" width="250"/> | Doctor appointment web app with secure auth and dynamic dashboards | **Next.js**, **MongoDB**, **JWT**, **Tailwind CSS**     |
+| 📝 [**JotFlow**](https://jot-flow.vercel.app/) <br> <a href="https://github.com/vishalshukla77/JotFlow">GitHub Repo</a> <br> <img src="https://github.com/vishalshukla77/JotFlow/assets/your-image-id" alt="JotFlow landing page" width="250"/>                | Fast and clean note-taking app with markdown support and auth      | **Next.js**, **MongoDB**, **Tailwind CSS**, **Auth**    |
+
 
 ---
 
