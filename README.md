@@ -32,11 +32,12 @@
 
 ### 🚀 Featured Projects
 
-| Project                                                                                                                                                           | Project | Description | Tech Stack |
+| Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔗 **Elevatr**  <br> 🌐 [Live Site](https://elevatr.onrender.com/)  &nbsp;|&nbsp; [GitHub Repo](https://github.com/vishalshukla77/Elevatr) <br> ![Elevatr](https://raw.githubusercontent.com/vishalshukla77/Elevatr/main/public/elevatr-banner.png) | A LinkedIn-like networking platform for professional connections | **MERN Stack** (MongoDB, Express.js, React.js, Node.js) |
-| 🏥 **MediLinker**  <br> 🌐 [Live Site](https://medi-linker.vercel.app/) &nbsp;|&nbsp; [GitHub Repo](https://github.com/vishalshukla77/MediLinker) <br> ![MediLinker](https://raw.githubusercontent.com/vishalshukla77/MediLinker/main/public/medi-linker-banner.png) | Doctor appointment app with secure auth and dynamic dashboards | **Next.js**, **MongoDB**, **JWT**, **Tailwind CSS** |
-| 📝 **JotFlow**  <br> 🌐 [Live Site](https://jot-flow.vercel.app/) &nbsp;|&nbsp; [GitHub Repo](https://github.com/vishalshukla77/JotFlow) <br> ![JotFlow](https://raw.githubusercontent.com/vishalshukla77/JotFlow/main/public/jotflow-banner.png) | Fast and clean note-taking app with markdown support and auth | **Next.js**, **MongoDB**, **Tailwind CSS**, **Auth** |
+| 🔗 **Elevatr** <br> 🔗 [Live](https://elevatr.onrender.com/) ・ 💻 [Code](https://github.com/vishalshukla77/Elevatr) <br> <img src="https://github.com/vishalshukla77/Elevatr/assets/your-image-id" alt="Elevatr" width="250"/> | A LinkedIn-like networking platform for professional connections | **MERN Stack** <br> MongoDB ・ Express.js ・ React.js ・ Node.js |
+| 🏥 **MediLinker** <br> 🔗 [Live](https://medi-linker.vercel.app/) ・ 💻 [Code](https://github.com/vishalshukla77/MediLinker) <br> <img src="https://github.com/vishalshukla77/MediLinker/assets/your-image-id" alt="MediLinker" width="250"/> | Doctor appointment app with secure auth and dynamic dashboards | **Next.js** ・ **MongoDB** ・ **JWT** ・ **Tailwind CSS** |
+| 📝 **JotFlow** <br> 🔗 [Live](https://jot-flow.vercel.app/) ・ 💻 [Code](https://github.com/vishalshukla77/JotFlow) <br> <img src="https://github.com/vishalshukla77/JotFlow/assets/your-image-id" alt="JotFlow" width="250"/> | Fast and clean note-taking app with markdown support and auth | **Next.js** ・ **MongoDB** ・ **Tailwind CSS** ・ **Auth** |
+
 
 
 
