@@ -11,28 +11,21 @@
 
 ### 👨‍💻 About Me
 
-- 👨‍🎓 I'm a final year CSE student at **USICT, GGSIPU**  
-- 🧑 I'm 20 y/o, go by **he/him** pronouns  
+- 👨‍🎓 I'm a final year Btech CSE student. 
 - 💫 I'm a passionate full-stack web developer focused on building seamless user experiences and performant APIs  
-- ⚛️ Skilled in **React.js**, **Next.js**, and **Node.js**, with strong knowledge of **Data Structures and Algorithms**  
-- 🏢 Completed internship at **Rise Higher Education**  
-  - Developed a comprehensive website from scratch  
-  - Managed both frontend & backend  
-  - Completed the project lifecycle in 6 months  
-- 🌱 Exploring **Machine Learning**, blending it with my dev skills  
+- ⚛️ Skilled in **React.js**, **Next.js**, and **Node.js**, with strong knowledge of **Data Structures and Algorithms**    
 - 🧑‍💻 Actively seeking **Software Development** opportunities to create meaningful digital solutions  
-- ⭐ Constantly learning and contributing to **Open Source**  
-- 🧠 Solved **2000+ problems** on coding platforms  
-  - Ranked in **top 3.6% globally** on **LeetCode**
+- 🧠 Solved **1200+ problems** on coding platforms  
+  - Ranked in **top 5% globally** on **LeetCode**
 
 ---
 
 ### 💻 What I Do
 
-- 🏦 **Professional Work**: Building fintech solutions at **CreditSea** using modern web technologies  
+ 
 - 🧩 **Problem Solving**: Active competitive programmer on **LeetCode**, **Codeforces**, **CodeChef**, and **GeeksforGeeks**  
 - 🌐 **Development**: Building full-stack web applications and exploring cutting-edge tech  
-- 📚 **Learning**: Deepening knowledge in **system design**, **cloud computing**, and **software architecture**
+- 📚 **Learning**: Deepening knowledge in **system design**, and **software Development**
 
 ---
 
