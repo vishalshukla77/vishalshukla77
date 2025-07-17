@@ -36,9 +36,9 @@
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------- |
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔗 [**Elevatr**](https://elevatr.onrender.com/) <br> [GitHub Repo](https://github.com/vishalshukla77/Elevatr) <br>  | A LinkedIn-like networking platform for professional connections | **MERN Stack** (MongoDB, Express.js, React.js, Node.js) |
-| 🏥 [**MediLinker**](https://medi-linker.vercel.app/) <br> [GitHub Repo](https://github.com/vishalshukla77/MediLinker) <br>  | Doctor appointment app with secure auth and dynamic dashboards | **Next.js**, **MongoDB**, **JWT**, **Tailwind CSS** |
-| 📝 [**JotFlow**](https://jot-flow.vercel.app/) <br> [GitHub Repo](https://github.com/vishalshukla77/JotFlow) <br>  | Fast and clean note-taking app with markdown support and auth | **Next.js**, **MongoDB**, **Tailwind CSS**, **Auth** |
+| 🔗 [**Elevatr**](https://elevatr.onrender.com/) <br> [Code](https://github.com/vishalshukla77/Elevatr) <br>  | A LinkedIn-like networking platform for professional connections | **MERN Stack** (MongoDB, Express.js, React.js, Node.js) |
+| 🏥 [**MediLinker**](https://medi-linker.vercel.app/) <br> [Code](https://github.com/vishalshukla77/MediLinker) <br>  | Doctor appointment app with secure auth and dynamic dashboards | **Next.js**, **MongoDB**, **JWT**, **Tailwind CSS** |
+| 📝 [**JotFlow**](https://jot-flow.vercel.app/) <br> [Code](https://github.com/vishalshukla77/JotFlow) <br>  | Fast and clean note-taking app with markdown support and auth | **Next.js**, **MongoDB**, **Tailwind CSS**, **Auth** |
 
 
 ---
